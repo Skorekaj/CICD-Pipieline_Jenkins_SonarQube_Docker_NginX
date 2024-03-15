@@ -1,0 +1,19 @@
+total 132
+-rw-rw-r-- 1 jaas jaas   896 Mar 15 09:38 1newchange.txt
+-rw-rw-r-- 1 jaas jaas  7677 Mar 15 09:20 about.html
+-rw-rw-r-- 1 jaas jaas  7797 Mar 15 09:20 contact.html
+drwxrwxr-x 2 jaas jaas  4096 Mar 15 09:20 css
+-rw-rw-r-- 1 jaas jaas     0 Mar 15 09:56 DirList.txt
+drwxrwxr-x 2 jaas jaas  4096 Mar 15 09:20 fonts
+-rw-rw-r-- 1 jaas jaas 15739 Mar 15 09:23 history.txt
+drwxrwxr-x 2 jaas jaas  4096 Mar 15 09:20 images
+-rw-rw-r-- 1 jaas jaas 26997 Mar 15 09:20 index.html
+drwxrwxr-x 2 jaas jaas  4096 Mar 15 09:20 js
+-rw-rw-r-- 1 jaas jaas 14146 Mar 15 09:20 price.html
+-rw-rw-r-- 1 jaas jaas 10803 Mar 15 09:20 service.html
+-rw-rw-r-- 1 jaas jaas    37 Mar 15 09:20 test2home.txt
+-rw-rw-r-- 1 jaas jaas    14 Mar 15 09:20 test2.txt
+-rw-rw-r-- 1 jaas jaas    13 Mar 15 09:20 test3.txt
+-rw-rw-r-- 1 jaas jaas    12 Mar 15 09:20 test4.txt
+-rw-rw-r-- 1 jaas jaas    18 Mar 15 09:20 testhome.txt
+-rw-rw-r-- 1 jaas jaas    17 Mar 15 09:20 test.txt
