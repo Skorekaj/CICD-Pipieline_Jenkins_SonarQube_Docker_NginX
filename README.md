@@ -2,7 +2,7 @@ Project - Jenkins SonarQube Docker Terraform CI/CD pipeline - Project DONE
 
 This project creates CI/CD Pipeline -> GITHub repro and web hook, docker images for SonarQube, Jenkins and Nginx OnPrem. 
 
-—————————————————————————————————————————————
+——————————————————————
 On-premis docker server (ubuntu 12 core 64 Gb: drop
 GIThub Local Repro: /home/jaas/gitcloneWebsite/JenkinsSonarQubeDocker
 
@@ -12,7 +12,7 @@ docker run -d -it -p 9000:9000 sonarqube1
 docker run -d -it -p 8080:8080 -v /home/jaas/jenkins_home:/var/jenkins_home jenkins/jenkins # this will save the config on the local drive
 docker run -it --rm -d -p 80:80 -v /home/jaas/gitcloneWebsite/JenkinsSonarQubeDocker:/usr/share/nginx/html nginx
 
-—————————————————————————————————————————————
+—————————————————————————————————
 
 Create a new GIT hub repository
 Copy the website contents from local machine to GIT hub.
