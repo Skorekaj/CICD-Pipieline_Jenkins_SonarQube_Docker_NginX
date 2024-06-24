@@ -1,4 +1,4 @@
-Project - Jenkins SonarQube Docker Terraform CI/CD pipeline - Project DONE
+Project - GitHub Jenkins SonarQube Docker CI/CD pipeline
 
 This project creates CI/CD Pipeline -> GITHub repro and web hook, docker images for SonarQube, Jenkins and Nginx OnPrem. 
 
@@ -16,7 +16,6 @@ docker run -it --rm -d -p 80:80 -v /home/jaas/gitcloneWebsite/JenkinsSonarQubeDo
 
 Create a new GIT hub repository
 Copy the website contents from local machine to GIT hub.
-Create 3 ec2 instances in aws with ubuntu image
 Open Jenkins.oi
 	klick on documentation
 	klick on insalling Jenkins
@@ -27,8 +26,6 @@ Open Jenkins.oi
 Ssh into the Jenkins server 
 $ sudo apt update -y
 $ sudo apt install openjdk-11-jre -y
-
-- In aws open SG inbound port for jenkins server tcp 8080:00000/0
 
 - Install Jenkins: 09:00 timestamp (consider using docker image instead then we don’t have to install and configure things)
 
